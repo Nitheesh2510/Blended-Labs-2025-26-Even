@@ -106,22 +106,22 @@ verified through the public IP address of the instance via a web browser
 
 ### Screenshot 1: VPC and Subnet Details
 
-<img width="1919" height="986" alt="Screenshot 2026-02-23 200748" src="https://github.com/user-attachments/assets/78d82640-613b-4b5e-bc36-8053d4656f16" />
 
+<img width="1919" height="1002" alt="Screenshot 2026-08-17 174820" src="https://github.com/user-attachments/assets/048e2dfd-f3f8-41ea-abdb-fad1e2e2f197" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-<img width="1915" height="981" alt="Screenshot 2026-02-24 141539" src="https://github.com/user-attachments/assets/5ceb74a6-2849-413e-a458-0594d7a1058b" />
 
+<img width="1919" height="995" alt="Screenshot 2026-08-17 175520" src="https://github.com/user-attachments/assets/9cd7f763-09c7-4eb0-9fad-043156c052c7" />
 
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-<img width="1914" height="991" alt="Screenshot 2026-02-24 142108" src="https://github.com/user-attachments/assets/e15d3da0-663b-4150-b12b-96ec6f6e3b99" />
+<img width="1919" height="992" alt="Screenshot 2026-08-17 180032" src="https://github.com/user-attachments/assets/d82dffc7-acb8-4dff-8e83-244cabbcd45b" />
 
 
 ---
